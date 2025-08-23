@@ -8,7 +8,7 @@
 ## 📫 Contact
 
 - Email: drewschka@outlook.com
-- LinkedIn: [(www.linkedin.com/in/afrohner)]
+- LinkedIn: www.linkedin.com/in/afrohner
 - Location: California, USA
 
 
