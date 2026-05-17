@@ -11,7 +11,13 @@
 
 ## 1. Observing Volatility
 ### **Description:**  
-Simple algorithm designed to save time, when you just absolutely NEED to keep up with the market volatility indicator has been behaving over the past month, 3 months, 6 months, and 1 year time frames. 
+Simple algorithm designed to save time, when you just absolutely NEED to keep up with the market volatility indicator has been behaving over Monthly and Weekly time frames.
+HMTL file is outputted as a "Dashboard" that allows a viewer to easily switch between the 2 timeframes.
+
+Happy volatility watching :)
+
   
-[VIEW PROJECT as Py File HERE](https://afrohner.github.io/afrohner/VIX_Data.py)
+[VIEW PROJECT as Py File HERE](https://afrohner.github.io/afrohner/VIX_View_On_Demand_2times.py)
+[VIEW PROJECT as Dynamic HTML File HERE](https://afrohner.github.io/afrohner/vix_dashboard_dynamic.html)
+
 
