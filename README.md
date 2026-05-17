@@ -17,7 +17,7 @@ HMTL file is outputted as a "Dashboard" that allows a viewer to easily switch be
 Happy volatility watching :)
 
   
-[VIEW PROJECT as Py File HERE](https://afrohner.github.io/afrohner/VIX_View_On_Demand_2times.py)
+[View Python script](https://github.com/afrohner/afrohner/blob/main/VIX_View_On_Demand_2times.py)
 
 [VIEW PROJECT as Dynamic HTML File HERE](https://afrohner.github.io/afrohner/vix_dashboard_dynamic.html)
 
