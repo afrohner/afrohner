@@ -1,10 +1,8 @@
 ## Hi there, thank you for visiting
 
-
-- 🔭 I currently have a repository that showcases the skills i learned in Time-Series analysis and Data Analystics as a graduate student. [Graduate Coursework Found Here!](https://github.com/afrohner/MSQE_25)
-- 🌱 I am currently applying these skills towards data found in financial markets and the US macroeconomy.
-- 🤝 I am looking to deploy these skills in a professional capacity.
-
+ I currently have a repository that showcases the skills i learned in Time-Series analysis and Data Analystics as a graduate student. [Graduate Coursework Found Here!](https://github.com/afrohner/MSQE_25)
+ Here, I am sharing other coding related projects I have embarked on.
+ 
 ## 📫 Contact
 
 - Email: drewschka@outlook.com
