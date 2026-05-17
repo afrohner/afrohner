@@ -18,6 +18,7 @@ Happy volatility watching :)
 
   
 [VIEW PROJECT as Py File HERE](https://afrohner.github.io/afrohner/VIX_View_On_Demand_2times.py)
+
 [VIEW PROJECT as Dynamic HTML File HERE](https://afrohner.github.io/afrohner/vix_dashboard_dynamic.html)
 
 
